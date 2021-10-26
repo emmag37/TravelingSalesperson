@@ -19,3 +19,5 @@ in the list is the first point. After calculating this value, still in the loop,
 value. If the calculated value is smaller, it is the new minimum distance value and the current node is saved. After going
 through each node in the list, the method adds the point after the saved point.
 O(N^2) complexity
+
+SOURCE CODE FOR THESE METHODS IS IN THE TOUR CLASS
