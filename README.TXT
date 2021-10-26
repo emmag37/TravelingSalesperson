@@ -20,4 +20,4 @@ value. If the calculated value is smaller, it is the new minimum distance value 
 through each node in the list, the method adds the point after the saved point.
 O(N^2) complexity
 
-SOURCE CODE FOR THESE METHODS IS IN THE TOUR CLASS
+SOURCE CODE FOR THESE METHODS IS IN Tour.java
